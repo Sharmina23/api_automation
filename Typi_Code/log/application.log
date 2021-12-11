@@ -1,0 +1,50 @@
+2021-12-11 01:58:05,770 [main] INFO API Logs - *******Starting Get Method*******
+2021-12-11 01:58:06,538 [main] INFO API Logs - ********** Ending Get Method**********
+2021-12-11 02:02:02,951 [main] INFO API Logs - *******Starting Delete Method*******
+2021-12-11 02:02:05,109 [main] INFO API Logs - *******Ending Delete Method*******
+2021-12-11 02:02:05,123 [main] INFO API Logs - *******Starting Get Method*******
+2021-12-11 02:02:05,861 [main] INFO API Logs - ********** Ending Get Method**********
+2021-12-11 02:02:05,870 [main] INFO API Logs - *******Starting Post Method*******
+2021-12-11 02:02:06,103 [main] INFO API Logs - *******Ending Post Method*******
+2021-12-11 02:02:06,115 [main] INFO API Logs - *******Starting Put Method*******
+2021-12-11 02:02:06,338 [main] INFO API Logs - *******Ending Put Method*******
+2021-12-11 02:05:04,115 [main] INFO API Logs - *******Starting Get Method*******
+2021-12-11 02:05:06,861 [main] INFO API Logs - ********** Ending Get Method**********
+2021-12-11 02:05:06,876 [main] INFO API Logs - *******Starting Post Method*******
+2021-12-11 02:05:07,132 [main] INFO API Logs - *******Ending Post Method*******
+2021-12-11 02:05:07,143 [main] INFO API Logs - *******Starting Put Method*******
+2021-12-11 02:05:07,341 [main] INFO API Logs - *******Ending Put Method*******
+2021-12-11 02:05:07,351 [main] INFO API Logs - *******Starting Delete Method*******
+2021-12-11 02:05:07,520 [main] INFO API Logs - *******Ending Delete Method*******
+2021-12-11 02:05:36,039 [main] INFO API Logs - *******Starting Get Method*******
+2021-12-11 02:05:38,846 [main] INFO API Logs - ********** Ending Get Method**********
+2021-12-11 02:05:38,859 [main] INFO API Logs - *******Starting Post Method*******
+2021-12-11 02:05:39,154 [main] INFO API Logs - *******Ending Post Method*******
+2021-12-11 02:05:39,166 [main] INFO API Logs - *******Starting Put Method*******
+2021-12-11 02:05:39,361 [main] INFO API Logs - *******Ending Put Method*******
+2021-12-11 02:05:39,371 [main] INFO API Logs - *******Starting Delete Method*******
+2021-12-11 02:05:39,535 [main] INFO API Logs - *******Ending Delete Method*******
+2021-12-11 02:06:24,054 [main] INFO API Logs - *******Starting Get Method*******
+2021-12-11 02:06:26,794 [main] INFO API Logs - ********** Ending Get Method**********
+2021-12-11 02:06:26,799 [main] INFO API Logs - *******Starting Post Method*******
+2021-12-11 02:06:27,056 [main] INFO API Logs - *******Ending Post Method*******
+2021-12-11 02:06:27,059 [main] INFO API Logs - *******Starting Put Method*******
+2021-12-11 02:06:27,269 [main] INFO API Logs - *******Ending Put Method*******
+2021-12-11 02:06:27,273 [main] INFO API Logs - *******Starting Delete Method*******
+2021-12-11 02:06:27,436 [main] INFO API Logs - *******Ending Delete Method*******
+2021-12-11 02:07:08,932 [main] INFO API Logs - *******Starting Get Method*******
+2021-12-11 02:07:11,660 [main] INFO API Logs - ********** Ending Get Method**********
+2021-12-11 02:07:11,673 [main] INFO API Logs - *******Starting Post Method*******
+2021-12-11 02:07:11,917 [main] INFO API Logs - *******Ending Post Method*******
+2021-12-11 02:07:11,929 [main] INFO API Logs - *******Starting Put Method*******
+2021-12-11 02:07:12,134 [main] INFO API Logs - *******Ending Put Method*******
+2021-12-11 02:07:12,144 [main] INFO API Logs - *******Starting Delete Method*******
+2021-12-11 02:07:12,309 [main] INFO API Logs - *******Ending Delete Method*******
+2021-12-11 02:11:48,829 [main] INFO API Logs - *******Starting Get Method*******
+2021-12-11 02:11:51,782 [main] INFO API Logs - ********** Ending Get Method**********
+2021-12-11 02:11:51,796 [main] INFO API Logs - *******Starting Post Method*******
+2021-12-11 02:11:52,054 [main] INFO API Logs - *******Ending Post Method*******
+2021-12-11 02:11:52,063 [main] INFO API Logs - *******Starting Put Method*******
+2021-12-11 02:11:52,260 [main] INFO API Logs - *******Ending Put Method*******
+2021-12-11 02:11:52,275 [main] INFO API Logs - *******Starting Delete Method*******
+2021-12-11 02:11:52,440 [main] INFO API Logs - *******Ending Delete Method*******

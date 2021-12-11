@@ -1,0 +1,4 @@
+com\api\tests\DeleteMethod.class
+com\api\tests\PutMethod.class
+com\api\tests\GetMethod.class
+com\api\tests\PostMethod.class

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="API Automation Suite" duration-ms="3415" started-at="2021-12-11T07:06:24Z" finished-at="2021-12-11T07:06:27Z">
+    <groups>
+    </groups>
+    <test name="Api Automation Tests" duration-ms="3415" started-at="2021-12-11T07:06:24Z" finished-at="2021-12-11T07:06:27Z">
+      <class name="com.api.tests.PutMethod">
+        <test-method status="PASS" signature="myPutMethod()[pri:0, instance:com.api.tests.PutMethod@57c758ac]" name="myPutMethod" duration-ms="211" started-at="2021-12-11T07:06:27Z" finished-at="2021-12-11T07:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPutMethod -->
+      </class> <!-- com.api.tests.PutMethod -->
+      <class name="com.api.tests.GetMethod">
+        <test-method status="PASS" signature="myGetMethod()[pri:0, instance:com.api.tests.GetMethod@2667f029]" name="myGetMethod" duration-ms="2748" started-at="2021-12-11T07:06:24Z" finished-at="2021-12-11T07:06:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myGetMethod -->
+      </class> <!-- com.api.tests.GetMethod -->
+      <class name="com.api.tests.DeleteMethod">
+        <test-method status="PASS" signature="myDeleteMethod()[pri:0, instance:com.api.tests.DeleteMethod@a9cd3b1]" name="myDeleteMethod" duration-ms="164" started-at="2021-12-11T07:06:27Z" finished-at="2021-12-11T07:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myDeleteMethod -->
+      </class> <!-- com.api.tests.DeleteMethod -->
+      <class name="com.api.tests.PostMethod">
+        <test-method status="PASS" signature="myPostMethod()[pri:0, instance:com.api.tests.PostMethod@67a20f67]" name="myPostMethod" duration-ms="258" started-at="2021-12-11T07:06:26Z" finished-at="2021-12-11T07:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPostMethod -->
+      </class> <!-- com.api.tests.PostMethod -->
+    </test> <!-- Api Automation Tests -->
+  </suite> <!-- API Automation Suite -->
+</testng-results>
